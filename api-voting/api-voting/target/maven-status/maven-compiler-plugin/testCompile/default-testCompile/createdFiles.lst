@@ -1,0 +1,10 @@
+br\com\sousa\controllers\v1\VoteControllerIntegrationTest.class
+br\com\sousa\mocks\v1\MockSchedule.class
+br\com\sousa\domain\service\VoteServiceTest.class
+br\com\sousa\controllers\v1\ScheduleControllerIntegrationTest.class
+br\com\sousa\mocks\v1\MockVoteTest.class
+br\com\sousa\domain\service\ScheduleServiceTest.class
+br\com\sousa\domain\repository\RepositoryTest.class
+br\com\sousa\mocks\v1\MockScheduleTest.class
+br\com\sousa\controllers\v1\PollControllerIntegrationTest.class
+br\com\sousa\mocks\v1\MockVote.class
